@@ -1,7 +1,7 @@
 %global forgeurl https://git.sr.ht/~emersion/kanshi
  
 Name:           kanshi
-Version:        1.4.0
+Version:        1.5.0
 Release:        1
 Summary:        Dynamic display configuration for Wayland
  
