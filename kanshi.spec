@@ -20,6 +20,7 @@ BuildRequires:  gnupg2
 BuildRequires:  meson
 BuildRequires:  pkgconfig(libvarlink)
 BuildRequires:  pkgconfig(scdoc) >= 1.9.2
+BuildRequires:  pkgconfig(scfg)
 BuildRequires:  pkgconfig(wayland-client)
 BuildRequires:  pkgconfig(wayland-scanner)
  
