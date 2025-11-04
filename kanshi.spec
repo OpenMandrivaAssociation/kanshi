@@ -1,7 +1,5 @@
-%global forgeurl https://git.sr.ht/~emersion/kanshi
- 
 Name:           kanshi
-Version:        1.7.0
+Version:        1.8.0
 Release:        1
 Summary:        Dynamic display configuration for Wayland
  
@@ -13,7 +11,7 @@ Summary:        Dynamic display configuration for Wayland
 # license of the binary.
 License:        MIT
 URL:            https://sr.ht/~emersion/kanshi
-Source0:        %{forgeurl}/refs/download/v%{version}/%{name}-%{version}.tar.gz
+Source0:        https://gitlab.freedesktop.org/emersion/kanshi/-/archive/v%{version}/kanshi-v%{version}.tar.bz2
 Source1:        %{name}.service
  
 BuildRequires:  gnupg2
