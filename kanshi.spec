@@ -1,5 +1,5 @@
 Name:           kanshi
-Version:        1.8.0
+Version:        1.9.0
 Release:        1
 Summary:        Dynamic display configuration for Wayland
  
